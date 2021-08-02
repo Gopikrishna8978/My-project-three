@@ -1,1 +1,1 @@
-# My-project-three
+Only Desktop static pages.
