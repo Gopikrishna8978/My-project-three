@@ -1,0 +1,166 @@
+.profile{
+    background-color: black;
+    height: 100vh;
+}
+.gopi1{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-top: 17px;
+    border: 4px solid rgb(117, 117, 117);
+    
+}
+.do-what-pic{
+    background-image: url("../assests/images/p3.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.icon-size{
+    padding-left: 30px !important;
+}
+.img-circle{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(61, 60, 60);
+    margin-top: 10px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 11px 
+    
+}
+.icon-one{
+    color: white;
+}
+
+.home{
+    text-decoration: none !important;
+    /* padding-left: 15px; */
+    font-size: bold;
+     color: blue
+}
+ul{
+    list-style-type: none;
+    padding: 0px !important;
+}
+.profile-section{
+    margin-top: 20px !important;
+
+}
+.home-icon{
+    color: blue;
+
+}
+.home1{
+    color: gray;
+    text-decoration: none;
+    padding-left: 7px;
+}
+.about-icon{
+    margin-top: 15px;
+    color: yellow;
+   
+}
+.about{
+    padding-left: 11px;
+    color: grey;
+}
+.about-one{
+    text-decoration: none;
+}
+.resume-one{
+    text-decoration: none;
+}
+.resume-icon{
+    margin-top: 20px;
+    color:red;
+    
+}
+.Resume{
+    padding-left: 11px;
+    color: grey
+
+}
+.port-one{
+    text-decoration: none;
+}
+.Portfolio{
+    padding-left: 11px;
+    color: grey;
+}
+.Portfolio-icon{
+    margin-top: 20px;
+    color:rgb(10, 235, 10);
+   
+
+}
+li{
+    padding-left: 10px;
+}
+.Portfolio-icons{
+    margin-top: 16px;
+    color: white;
+}
+.services{
+    padding-left: 8px;
+    color: gray;
+}
+.foot{
+    color: white;
+    text-align: center;
+    font-size: 11px;
+    /* margin-top: 265px !important; */
+}
+.boot{
+    color: blue;
+    font-size: 11px;
+}
+.design{
+    font-size: 11px;
+
+}
+.foot-one{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.gopi{
+    height:730px;
+    width: 1250px;
+}
+.text{
+    color: white;
+    position: absolute;
+    top: 300px;
+    padding-left: 150px;
+}
+.text-one{
+    color: white;
+    position: absolute;
+    top: 350px;
+    padding-left: 155px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.devp:after{
+    content: "";
+    position: absolute;
+    background-color: blue;
+    height:3px;
+    width:100px;
+    right: 0;
+    bottom: -10px;
+
+
+}
+.foots{
+    bottom: 0;
+    position: absolute;
+    left: 50px;
+}
